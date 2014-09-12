@@ -1,0 +1,39 @@
+Pendientes en Vialidades DF
+Shapefile
+
+Thumbnail Not Available
+Tags
+Pendientes, DF, CEM, Ciclista, Ruta, App, Altura
+
+Summary
+Porcentaje de pendientes por calle en la red vial del Distrito Federal 
+
+
+
+Description
+
+
+El archivo es la red vial del Distrito Federal proporcionada en la página de INEGI y la información de su pendiente en porcentaje.
+
+La información del porcentaje de pendientes está basada en el Continuo de Elevaciones Mexicano (CEM) de INEGI.
+
+La columna llamada "GRIDCODE" contiene el código del porcentaje de las pendientes y es el siguiente:
+
+1 = 0 a 6%
+
+2 = 6 a 10%
+
+3 = 10 a 15%
+
+4 = 15 a 20%
+
+5 = Más del 20%
+
+También se incluye el nombre de la calle (NOMVIAL), número de sentidos (sentido) y la clasificación vial que utiliza INEGI (TIPO).
+
+
+Credits
+INEGI
+
+Access and use limitations
+There are no access and use limitations for this item.
